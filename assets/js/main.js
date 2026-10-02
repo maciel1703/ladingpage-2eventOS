@@ -1,5 +1,5 @@
 // 1) COLE AQUI o link do seu produto na Kiwify (todos os botões usam este link)
-const KIWIFY_URL = "https://pay.kiwify.com.br/SEU-CODIGO";
+const KIWIFY_URL = "https://pay.kiwify.com.br/MPTycgm";
 
 document.querySelectorAll("[data-buy]").forEach(a => {
   a.href = KIWIFY_URL; a.target = "_blank"; a.rel = "noopener";
